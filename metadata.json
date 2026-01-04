@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Hayat 33",
+  "description": "A Blue Zones-inspired longevity and social connection platform for Dubai. Features climate-adaptive indoor routing, Moai social groups, and AI-driven health span coaching.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
