@@ -1,5 +1,5 @@
 {
-  "name": "hayat-33",
+  "name": "hayat33",
   "private": true,
   "version": "1.0.0",
   "type": "module",
@@ -12,7 +12,7 @@
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "lucide-react": "^0.454.0",
-    "@google/genai": "^1.34.01"
+    "@google/genai": "^0.2.1"
   },
   "devDependencies": {
     "@types/react": "^18.3.3",
